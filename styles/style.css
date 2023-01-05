@@ -18,6 +18,7 @@
  display: flex;
  justify-content: space-between;
  margin: 50px 230px;
+ padding-top: 51px;
 
 }
 
@@ -94,3 +95,49 @@ border: 1px solid#FD6E0A;
 margin-left: 30px;
 
 }
+/* main section */
+main{
+ max-width:1140px ;
+ margin: 0 auto;
+}
+.about{
+ margin-top: 156px;
+ 
+background: #FFF8F3;
+border-radius: 10px;
+padding: 131px 156px;
+text-align: center;
+
+}
+.about-me{
+ margin-bottom: 30px;
+ font-weight: 700;
+font-size: 35px;
+color: #181818;
+}
+.section-description{
+ margin-bottom: 30px;
+}
+.info-div{
+ display: flex;
+ justify-content: space-around; 
+ 
+ 
+}
+
+.info-div ul li{
+ list-style: none;
+
+}
+.info-title{
+ /* font-weight: 400; */
+font-size: 20px;
+color: #757575;
+}
+.info-description{
+ font-weight:700;
+ font-size:20px;
+ color: #474747;
+}
+
+
