@@ -62,8 +62,9 @@ span {
  align-items: center;
  
 }
-.image{
+.img{
 margin-bottom:0px ;
+
 
 }
 .sub-title{
@@ -240,6 +241,41 @@ margin-bottom: 30px;
  text-align: center;
  margin-top: 50px;
 }
-
+/* footer */
+.footer-part{
+  background: #FFF8F3;
+  margin-top: 113px;
+  
+}
+.footer-container{
+ display: flex;
+ padding: 130px 230px;
+ justify-content: space-around;
+}
+.footer-title{
+ font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-bottom: 20px;
+}
+.footer-description{
+ font-weight: 400;
+font-size: 16px;
+/* margin-right: 117px; */
+margin-bottom: 30px;
+color: #474747;
+}
+.form{
+ margin-bottom:24px ;
+ border: none;
+ padding: 18px 350px 18px 30px;
+ font-weight: 400;
+font-size: 16px;
+color: #757575;
+}
+.icon{
+ margin: 0px;
+ padding: 10px;
+}
 
 
