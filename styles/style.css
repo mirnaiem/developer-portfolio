@@ -62,6 +62,10 @@ span {
  align-items: center;
  
 }
+.image{
+margin-bottom:0px ;
+
+}
 .sub-title{
  font-weight: 600;
 font-size: 45px;
@@ -185,6 +189,56 @@ text-align: left;
  font-size: 16px;
  text-align: left;
  margin-left:30px ;
+}
+/* resume css */
+.resume{
+ margin-top:130px ;
+ /* text-align:center; */
+}
+.resume-title{
+ text-align: center;
+ font-weight: 700;
+font-size: 35px;
+color: #181818;
+margin-bottom: 113px;
+}
+.resume-maindiv{
+ display: flex;
+}
+.education{ margin-right: 71px;}
+.experience{}
+.eetitle{
+ font-weight: 700;
+font-size: 30px;
+margin-bottom: 30px;
+color: #474747;
+}
+.master{
+ border-bottom:1px solid #D1D1D1 ;
+ margin-bottom: 30px;
+
+}
+.etitle{
+ font-weight: 700;
+font-size: 25px;
+margin-bottom: 10px;
+color: #474747;
+}
+.e-subtitle{
+ font-weight: 600;
+font-size: 20px;
+margin-bottom: 20px;
+color: #757575;
+}
+.e-mdes{
+ font-weight: 400;
+font-size: 16px;
+color: #757575;
+margin-bottom: 30px;
+}
+.button{
+ text-align: center;
+ margin-top: 50px;
 }
 
 
